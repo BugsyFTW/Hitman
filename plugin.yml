@@ -1,0 +1,8 @@
+name: HitmanHit
+version: 1.0
+main: me.bugsyftw.hit.HitmanHit
+author: BugsyFTW
+prefix: [HitmanHit]
+commands:
+    hit:
+        description: Root Command
